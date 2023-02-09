@@ -39,7 +39,7 @@ Os encadeamentos consistem em adicionar um elemento dentro do outro. É uma téc
  <br />Tag de parágrafos: p
  <br />Tag de link: a href
  <br />Tag de pular linha: br
- <br />Tags de lista: ol (ordered list), li (list item) e ul (unordered list
+ <br />Tags de lista: ol (ordered list), li (list item) e ul (unordered list)
  <br />Tag de imagem: img
  <br />Tag de negrito: b e strong
  <br />Tag de itálico: i e em
