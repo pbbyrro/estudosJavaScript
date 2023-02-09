@@ -8,7 +8,7 @@ Estrutura
 
 As estruturas são elementos parecidos com os do Word, como títulos, parágrafos, listas, tabelas e imagens.
 <br />Eles são escritos através de tags que possuem uma sintaxa semelhante.
-<br />Exemplo: <p>Este é um texto</p>
+<br />Exemplo: <*p>Este é um texto</p*> ((SEM O *))
 <br />Esta tag cria um parágrafo no nosso site 
 
 Atributos
