@@ -20,16 +20,16 @@ Os atributos são como opções especiais para configurar determinadas tags.
 Encadeamento (Nesting)
 
 Os encadeamentos consistem em adicionar um elemento dentro do outro. É uma técnica importante do HTML para criar sessões.
-<br />Ex. <div>
-<br />      <h1>Meu título</h1>
-<br />      <p>Meu conteúdo</p>
-<br />    </div>
+<br />Ex. <*div>
+<br />      <*h1>Meu título</h1*>
+<br />      <*p>Meu conteúdo</p*>
+<br />    </div*>
 <br />Aqui temos uma div com um título e um parágrafo, ambos encadeados
 
  Tags sem fechamento
  
  Tags sem fechamento são geralmente utilizadas quando a tag não possui conteúdo, como por exemplo uma imagem:
- <br /><img src="minhaimagem.jpg" alt="Conteúdo da imagem">
+ <br /><*img src="minhaimagem.jpg" alt="Conteúdo da imagem"*>
  <br />Os atributos configuram a tag completamente, com src inserindo o caminho da imagem e alt inserindo uma descrição.
  
  Estrutura básica do HTML
